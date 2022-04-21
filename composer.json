@@ -1,0 +1,17 @@
+{
+    "name": "martin/react-php",
+    "authors": [
+        {
+            "name": "Martin Peveri",
+            "email": "martinpeveri@gmail.com"
+        }
+    ],
+    "require": {
+        "react/react": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
